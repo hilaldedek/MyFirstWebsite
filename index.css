@@ -164,8 +164,9 @@ p {
   display: flex;
 }
 ​
-footer {
-  text-align: center;
+.secenek.social {
+  margin: 20px auto;
+  width: 200px;
 }
 @media (max-width: 1030px) {
   .grid-container {
